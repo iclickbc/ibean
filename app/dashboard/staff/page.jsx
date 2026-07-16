@@ -195,7 +195,7 @@ export default function StaffManagement() {
           </div>
         )}
 
-        <div className="grid min-h-0 flex-1 grid-cols-1 gap-3 xl:grid-cols-[minmax(0,0.9fr)_minmax(0,1.1fr)]">
+        <div className="grid min-h-0 flex-1 grid-cols-1 gap-3 lg:grid-cols-[minmax(360px,420px)_minmax(0,1fr)]">
           <section className="min-h-0 overflow-hidden rounded-[28px] border border-white/10 bg-neutral-900/60 p-3 shadow-xl backdrop-blur-2xl md:p-4">
             <div className="mb-3 flex items-center justify-between gap-3">
               <div>
